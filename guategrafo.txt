@@ -1,0 +1,25 @@
+Ciudad, Antigua, 40
+Ciudad, Panajachel, 145
+Ciudad, Flores, 600
+Ciudad, Puerto, 110
+Ciudad, Rio Dulce, 300
+Ciudad, Reu, 200
+Antigua, Puerto, 90
+Antigua, Reu, 140
+Antigua, Panajachel, 100
+Antigua, Flores, 660
+Antigua, Tikal, 720
+Puerto, Reu, 150
+Puerto, Panajachel, 190
+Puerto, Rio Dulce, 420
+Puerto, Tikal, 790
+Reu, Panajachel, 170
+Reu, Rio Dulce, 520
+Reu, Flores, 480
+Reu, Tikal, 540
+Panajachel, Rio Dulce, 450
+Panajachel, Flores, 440
+Panajachel, Tikal, 370
+Rio Dulce, Flores, 280
+Rio Dulce, Tikal, 350
+Flores, Tikal, 65
